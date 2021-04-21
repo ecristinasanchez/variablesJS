@@ -19,7 +19,7 @@ let comidaMexicana = ["Tacos", "Enchiladas", "Pozole"]
 
 //OBJETO - Conjunto de datos que se estructura en un formato llave:valor
 let nocheMexicana = {
-    día: "15",
+    día: 15,
     mes: "septiembre",
-    PuedecambiarseLaFecha: "false"
+    PuedecambiarseLaFecha: false
 }
